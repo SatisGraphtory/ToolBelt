@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
-    "@types/glob": "^7.1.1",
+    "@types/glob": "^9.0.0",
     "@types/prettier": "^2.3.2",
     "antlr4ts-cli": "^0.5.0-alpha.3",
     "onchange": "^7.1.0",
