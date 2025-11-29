@@ -9,7 +9,7 @@
     "build": "tsc --build tsconfig.json"
   },
   "dependencies": {
-    "typescript-json-schema": "^0.51.0"
+    "typescript-json-schema": "^0.67.0"
   },
   "devDependencies": {}
 }
