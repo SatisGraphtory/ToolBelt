@@ -17,7 +17,7 @@
     "@node-steam/vdf": "^2.2.0",
     "@types/luxon": "^2.0.3",
     "@types/node-fetch": "^3.0.3",
-    "exiftool-vendored": "^15.3.0",
+    "exiftool-vendored": "^35.19.0",
     "node-fetch": "^3.0.0",
     "node-html-parser": "^4.1.5",
     "ts-node": "^9.0.0"
