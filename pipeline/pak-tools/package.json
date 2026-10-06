@@ -42,7 +42,7 @@
     "msgpack-lite": "^0.1.26",
     "pngjs": "^6.0.0",
     "reflect-metadata": "^0.1.13",
-    "sharp": "^0.29.1",
+    "sharp": "^0.35.5",
     "unzipper": "^0.10.11",
     "uuid": "^8.3.2"
   }
